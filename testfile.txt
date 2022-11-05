@@ -1,3 +1,2 @@
 this is a test text file. It was created from scratch on the "testfile" branch.
-
-This line was added to test what happens when branches conflict during a merge.
+Mohammed.
